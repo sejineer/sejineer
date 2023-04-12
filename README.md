@@ -9,7 +9,6 @@
 
 ### Interest
 - SpringBoot
-- CI/CD, TDD
 - Leadership, Mentoring, Communication
 
 <div align=center>
