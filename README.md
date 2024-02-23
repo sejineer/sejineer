@@ -4,13 +4,6 @@
 
 </div>
 
-### Backend Engineer
-- Backend Engineer
-
-### Interest
-- SpringBoot
-- Leadership, Mentoring, Communication
-
 <div align=center>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/re_alworld/)](https://www.instagram.com/re_alworld/) 
